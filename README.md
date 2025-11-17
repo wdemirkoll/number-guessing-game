@@ -21,7 +21,7 @@ Congratulations! You guessed it in 3 attempts!
 
 ## ⚙️ How to Run
 1. Clone or download this project:  
-   `git clone https://github.com/yourusername/number-guessing-game.git`
+   `git clone https://github.com/wdemirkoll/number-guessing-game.git`
 2. Open a terminal in the project directory.  
 3. Compile the program:  
    `g++ main.cpp -o NumberGuess`
